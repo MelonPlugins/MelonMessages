@@ -1,0 +1,9 @@
+join:
+  message: "{player} joined the server"
+  color: "#33aaff"
+first-join:
+  message: "{player} joined the server for the first time"
+  color: "#33aaff"
+leave:
+  message: "{player} left the server"
+  color: "#33aaff"

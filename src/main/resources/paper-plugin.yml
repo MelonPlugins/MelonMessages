@@ -1,0 +1,9 @@
+name: MelonMessages
+version: '0.1.0'
+main: org.vanillacraft.melonmessages.MelonMessages
+api-version: '1.21'
+prefix: MelonMessages
+authors: [ Dylan <opendylan@proton.me> ]
+description: Configure various Minecraft messages shown in chat - supports Folia!
+website: https://vanillacraft.org/melon
+folia-supported: true
