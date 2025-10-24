@@ -3,7 +3,7 @@ package org.vanillacraft.melonmessages;
 import java.util.HashMap;
 
 public class PlaceholderMap {
-    private HashMap<String, String> placeholderValues;
+    private final HashMap<String, String> placeholderValues;
 
     public PlaceholderMap() {
         placeholderValues = new HashMap<>();
