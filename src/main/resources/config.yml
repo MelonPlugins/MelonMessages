@@ -1,9 +1,24 @@
+
+# Change the message printed in chat when an existing player rejoins
+# the server.
+# Placeholders:
+# - {player} - the name of the player who joined
 join:
   message: "{player} joined the server"
   color: "#33aaff"
+
+# Change the message printed in chat when a new player joins the
+# server.
+# Placeholders:
+# - {player} - the name of the player who joined
 first-join:
   message: "{player} joined the server for the first time"
   color: "#33aaff"
+
+# Change the message printed in chat when a player quits the server
+# (i.e. disconnects).
+# Placeholders:
+# - {player} - the name of the player who quit
 leave:
   message: "{player} left the server"
   color: "#33aaff"
